@@ -1,0 +1,1 @@
+. "/home/mzbroszczyk/Projects/conan-tests/example/build/Release/generators/deactivate_conanbuildenv-release-x86_64.sh"
