@@ -1,3 +1,0 @@
-/home/mzbroszczyk/Projects/conan-tests/sum/test_package/build/gcc-11-x86_64-gnu17-release/CMakeFiles/example.dir
-/home/mzbroszczyk/Projects/conan-tests/sum/test_package/build/gcc-11-x86_64-gnu17-release/CMakeFiles/edit_cache.dir
-/home/mzbroszczyk/Projects/conan-tests/sum/test_package/build/gcc-11-x86_64-gnu17-release/CMakeFiles/rebuild_cache.dir
